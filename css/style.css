@@ -122,7 +122,7 @@ section,
     color: #fff;
     display: block;
     font-size: 12px;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: capitalize;
 }
 .member-area{
@@ -852,7 +852,7 @@ section,
 }
 .kf_edu2_heading1 h3{
 	text-transform: uppercase;
-	font-weight: normal;
+	font-weight: bold;
 	position: relative;
 	padding-bottom: 15px;
 }
@@ -966,7 +966,7 @@ section,
 }
 .kf_cur_catg_capstion h5{
 	text-align: left;
-	font-weight: normal;
+	font-weight: bold;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	text-overflow:ellipsis;
@@ -979,6 +979,8 @@ section,
 .kf_cur_catg_capstion p{
 	color: #000000;
 	margin:0;
+	font-size: 20px;
+	font-weight: bold;
 }
 .kf_cur_catg_des:hover .kf_cur_catg_capstion > p {
 	color:#fff;
@@ -1774,7 +1776,7 @@ section,
 	top: 0;
 	bottom: 0;
 	position: absolute;
-	background-color: #333333;
+	background-color: #063f09;
 	opacity: 0.85;
 }
 .kf_edu2_training_des{
@@ -1785,8 +1787,7 @@ section,
 .kf_edu2_training_des figure{
 	overflow:visible;
 	position:absolute;
-	left:80px;
-	top:-26px;
+	top:-95px;
 }
 .kf_edu2_training_des figure img{
 	width:auto;
@@ -1804,17 +1805,17 @@ section,
     margin-top: -11px;
 }
 .edu2_training_wrap h2{
-	font-weight: 300;
 	text-transform: capitalize;
 	color: #fff;
 	margin-bottom: 7px;
+	font-weight: bold;
 }
 .edu2_training_wrap h3{
 	font-weight: 300;
 	text-transform: capitalize;
 	color: #fff;
 	margin-bottom: 30px;
-	font-size: 20px;
+	font-size: 16px;
 }
 .edu2_training_wrap .countdown{
     color: transparent;
@@ -2844,6 +2845,7 @@ section,
 	color: #333;
 	margin: -7px 0 21px;
 	display: block;
+	font-weight: bold;
 }
 .abt_univ_des p{
 	margin-bottom: 20px;
@@ -2894,7 +2896,7 @@ section,
 	bottom: 0;
 	top: 0;
 	position: absolute;
-	background-color: #000;
+	background-color: #063f09;
 	opacity:0.8;
 }
 .student_slider_wrap{
@@ -2920,6 +2922,7 @@ section,
     font-size: 18px;
     margin-bottom: 47px;
     float: left;
+	font-weight: bold;
 }
 .std_name_des {
     display: inline-block;
